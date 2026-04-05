@@ -13,7 +13,11 @@ Im using a seeed studio xiao sense which is the smallest pacakge of both the esp
 
 ![Image 1](Photos/P1.png)
 
+
+
 ![Image 2](Photos/P2.png)
+
+
 
 ![Image 3](Photos/P3.png)
 
