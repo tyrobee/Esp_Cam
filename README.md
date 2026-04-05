@@ -21,8 +21,7 @@ Im using a seeed studio xiao sense which is the smallest pacakge of both the esp
 ![Image 3](Photos/P3.png)
 
 
-## BOM
-## 🧾 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | S.No | Component | Description | Qty | Category | Distributor |
 |------|----------|------------|-----|----------|------------|
